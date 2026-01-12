@@ -149,6 +149,28 @@ xenopoulos-logic/
 •	Separation of concerns (5 distinct layers)
 •	Testability (pure functions where possible)
 •	Extensibility (easy to add new operators/synthesis methods)
+## 🎨 3D Visualizations & Output Reports
+
+### Available PDF Reports
+The system generates comprehensive 3D visualizations of Klein-4 operator transformations:
+
+| Report | Description | Preview |
+|--------|-------------|---------|
+| **3D Vector Transformations (Complete)** | Full Klein-4 operator analysis | ![PDF Preview](examples/visualizations/1-3D%20Vector%20Transformations%20by%20Klein-4%20Operators.pdf) |
+| **Extended Analysis** | Alternative vector configurations | [View PDF](examples/visualizations/2-3D%20Vector%20Transformations%20by%20Klein-4%20Operators.pdf) |
+| **Multi-Vector Study** | Comparative transformations | [View PDF](examples/visualizations/3-%203D%20Vector%20Transformations%20by%20Klein-4%20Operators.pdf) |
+
+**Key Features of Visualizations:**
+- ✅ 3D interactive plots (rotate, zoom in PDF viewers)
+- ✅ All four operators (I, N, R, C) shown simultaneously
+- ✅ Color-coded vectors (blue=original, red=transformed)
+- ✅ Mathematical validation through visual symmetry
+
+**Generate Your Own:**
+```bash
+python examples/visualization.py
+Detailed visualization documentation
+
 🧪 Testing & Validation
 bash
 # Run comprehensive tests
