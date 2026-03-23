@@ -1,0 +1,1672 @@
+{
+  "words": 530,
+  "sentences": 48,
+  "unique_words": 278,
+  "lexical_diversity": 0.5245283018867924,
+  "avg_sentence_length": 11.041666666666666,
+  "readability": 0.9739583333333334,
+  "lexical_contradictions": 6,
+  "semantic_contradictions": 0,
+  "paradoxes": 0,
+  "false_stability": 0,
+  "causal_contradictions": 1,
+  "temporal_contradictions": 0,
+  "pattern_contradictions": 6,
+  "avg_real": -0.2664112065505353,
+  "avg_imag": -3.5231553424228204,
+  "avg_tension": 3.5231553424228204,
+  "max_tension": 6.231135747256117,
+  "total_score": 0.8720931603773585,
+  "quality": "ΕΞΑΙΡΕΤΙΚΗ",
+  "detailed": [
+    {
+      "sentence": "Απάντηση 2: Η θέση του Dave Ziegler\nAaron, και σε ...",
+      "full_sentence": "Απάντηση 2: Η θέση του Dave Ziegler\nAaron, και σε όλους όσοι παρακολουθούν,\n\nτο εκτιμώ ότι παίρνεις το χρόνο να διατυπώσεις τόσο αναλυτικά τη σκέψη σου",
+      "index": 0,
+      "field": {
+        "field": "(0.20818086304315275+0j)",
+        "real": 0.20818086304315275,
+        "imag": 0.0,
+        "tension": 0.0,
+        "stage_id": 0,
+        "stage": "τ₀: ΣΥΝΟΧΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": 0.0,
+        "time": 1,
+        "continuity_error": 0.0,
+        "continuity_satisfied": true
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Πραγματικά",
+      "full_sentence": "Πραγματικά",
+      "index": 1,
+      "field": {
+        "field": "(-0.3217619334288255-0.11935371910303695j)",
+        "real": -0.3217619334288255,
+        "imag": -0.11935371910303695,
+        "tension": 0.11935371910303695,
+        "stage_id": 0,
+        "stage": "τ₀: ΣΥΝΟΧΗ",
+        "xeptqlri": 0.12839217923777882,
+        "layer": 0.20818086304315275,
+        "integral": -0.5733174383002568,
+        "time": 2,
+        "continuity_error": 0.0,
+        "continuity_satisfied": true
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Αλλά νομίζω ότι εδώ υπάρχει μια θεμελιώδης παρανόη...",
+      "full_sentence": "Αλλά νομίζω ότι εδώ υπάρχει μια θεμελιώδης παρανόηση που πρέπει να ξεκαθαρίσουμε — όχι για να σε «κερδίσω», αλλά γιατί η δημόσια κατανόηση της τεχνολογίας είναι σημαντική",
+      "index": 2,
+      "field": {
+        "field": "(-0.867176550442762-0.29713867334283517j)",
+        "real": -0.867176550442762,
+        "imag": -0.29713867334283517,
+        "tension": 0.29713867334283517,
+        "stage_id": 1,
+        "stage": "τ₁: ΠΡΩΤΗ ΑΝΩΜΑΛΙΑ",
+        "xeptqlri": 0.3331973960286527,
+        "layer": 0.20818086304315275,
+        "integral": -1.427310219581724,
+        "time": 3,
+        "continuity_error": 5.736589530431004,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 1,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Εσύ μιλάς για δύο επίπεδα: τεχνικό και ερμηνευτικό",
+      "full_sentence": "Εσύ μιλάς για δύο επίπεδα: τεχνικό και ερμηνευτικό",
+      "index": 3,
+      "field": {
+        "field": "(-0.982851677297138-0.3528333840839831j)",
+        "real": -0.982851677297138,
+        "imag": -0.3528333840839831,
+        "tension": 0.3528333840839831,
+        "stage_id": 2,
+        "stage": "τ₂: ΕΠΑΝΑΛΗΨΗ ΑΝΩΜΑΛΙΑΣ",
+        "xeptqlri": 0.3993738974727684,
+        "layer": 0.20818086304315275,
+        "integral": -1.694840625244435,
+        "time": 4,
+        "continuity_error": 97.70150461115004,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Και λες ότι και τα δύο είναι έγκυρα",
+      "full_sentence": "Και λες ότι και τα δύο είναι έγκυρα",
+      "index": 4,
+      "field": {
+        "field": "(-1.1937553202679634-0.5171629602242932j)",
+        "real": -1.1937553202679634,
+        "imag": -0.5171629602242932,
+        "tension": 0.5171629602242932,
+        "stage_id": 3,
+        "stage": "τ₃: ΣΥΣΣΩΡΕΥΣΗ ΕΝΤΑΣΗΣ",
+        "xeptqlri": 1.7975589866565862,
+        "layer": 0.20818086304315275,
+        "integral": -2.484200289423784,
+        "time": 5,
+        "continuity_error": 43.23219252980431,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Εγώ λέω ότι το δεύτερο, όταν δεν πατάει στο πρώτο,...",
+      "full_sentence": "Εγώ λέω ότι το δεύτερο, όταν δεν πατάει στο πρώτο, γίνεται επικίνδυνο — όχι επειδή είναι «μεταφυσικό», αλλά επειδή παράγει πεποιθήσεις για το σύστημα που είναι τεχνικά ψευδείς",
+      "index": 5,
+      "field": {
+        "field": "(-1.2454781384287648-0.6302986866746059j)",
+        "real": -1.2454781384287648,
+        "imag": -0.6302986866746059,
+        "tension": 0.6302986866746059,
+        "stage_id": 4,
+        "stage": "τ₄: ΣΗΜΕΙΟ ΚΡΙΣΗΣ",
+        "xeptqlri": 2.3081514200021367,
+        "layer": 0.20818086304315275,
+        "integral": -3.0276495037104083,
+        "time": 6,
+        "continuity_error": 28.611861189578953,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 2,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Ας το κάνω συγκεκριμένο",
+      "full_sentence": "Ας το κάνω συγκεκριμένο",
+      "index": 6,
+      "field": {
+        "field": "(-1.1924218942091138-0.8584144097184487j)",
+        "real": -1.1924218942091138,
+        "imag": -0.8584144097184487,
+        "tension": 0.8584144097184487,
+        "stage_id": 0,
+        "stage": "τ₀: ΣΥΝΟΧΗ",
+        "xeptqlri": 5.0,
+        "layer": 0.20818086304315275,
+        "integral": -4.123406912481252,
+        "time": 7,
+        "continuity_error": 32.20834886780344,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Εσύ λες: «η γλώσσα δεν είναι ουδέτερος φορέας»",
+      "full_sentence": "Εσύ λες: «η γλώσσα δεν είναι ουδέτερος φορέας»",
+      "index": 7,
+      "field": {
+        "field": "(-1.2063053364958702-0.8321977058798457j)",
+        "real": -1.2063053364958702,
+        "imag": -0.8321977058798457,
+        "tension": 0.8321977058798457,
+        "stage_id": 5,
+        "stage": "τ₅: ΠΟΙΟΤΙΚΟ ΑΛΜΑ",
+        "xeptqlri": 3.655252954619622,
+        "layer": 0.20818086304315275,
+        "integral": -3.997474569539774,
+        "time": 8,
+        "continuity_error": 37.04621582607799,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Συμφωνώ",
+      "full_sentence": "Συμφωνώ",
+      "index": 8,
+      "field": {
+        "field": "(-0.9925913569015766-1.1229882714665764j)",
+        "real": -0.9925913569015766,
+        "imag": -1.1229882714665764,
+        "tension": 1.1229882714665764,
+        "stage_id": 8,
+        "stage": "τ₈: ΜΕΤΑ-ΣΤΑΘΕΡΟΤΗΤΑ",
+        "xeptqlri": 5.0,
+        "layer": 0.20818086304315275,
+        "integral": -5.394291555193514,
+        "time": 9,
+        "continuity_error": 22.868930986045807,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Εσύ λες: «η εμπειρία της συνομιλίας με ένα LLM είν...",
+      "full_sentence": "Εσύ λες: «η εμπειρία της συνομιλίας με ένα LLM είναι βαθιά»",
+      "index": 9,
+      "field": {
+        "field": "(-0.7382933465042374-1.4103309276408413j)",
+        "real": -0.7382933465042374,
+        "imag": -1.4103309276408413,
+        "tension": 1.4103309276408413,
+        "stage_id": 8,
+        "stage": "τ₈: ΜΕΤΑ-ΣΤΑΘΕΡΟΤΗΤΑ",
+        "xeptqlri": 5.0,
+        "layer": 0.20818086304315275,
+        "integral": -6.774546454582143,
+        "time": 10,
+        "continuity_error": 9.505861143095425,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Συμφωνώ",
+      "full_sentence": "Συμφωνώ",
+      "index": 10,
+      "field": {
+        "field": "(-0.7347754893401861-1.4144570192679842j)",
+        "real": -0.7347754893401861,
+        "imag": -1.4144570192679842,
+        "tension": 1.4144570192679842,
+        "stage_id": 8,
+        "stage": "τ₈: ΜΕΤΑ-ΣΤΑΘΕΡΟΤΗΤΑ",
+        "xeptqlri": 5.0,
+        "layer": 0.20818086304315275,
+        "integral": -6.794366199619359,
+        "time": 11,
+        "continuity_error": 73.786095768104,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Εσύ λες: «αυτό μας αναγκάζει να θέσουμε φιλοσοφικά...",
+      "full_sentence": "Εσύ λες: «αυτό μας αναγκάζει να θέσουμε φιλοσοφικά ερωτήματα»",
+      "index": 11,
+      "field": {
+        "field": "(-0.4838993242906413-1.7449507297244058j)",
+        "real": -0.4838993242906413,
+        "imag": -1.7449507297244058,
+        "tension": 1.7449507297244058,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 5.0,
+        "layer": 0.20818086304315275,
+        "integral": -8.381897856589747,
+        "time": 12,
+        "continuity_error": 7.432399586065589,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Συμφωνώ",
+      "full_sentence": "Συμφωνώ",
+      "index": 12,
+      "field": {
+        "field": "(-0.4701600744262196-1.7661617831267522j)",
+        "real": -0.4701600744262196,
+        "imag": -1.7661617831267522,
+        "tension": 1.7661617831267522,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 5.0,
+        "layer": 0.20818086304315275,
+        "integral": -8.48378548013154,
+        "time": 13,
+        "continuity_error": 39.26261845718015,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Αλλά εσύ επίσης λες — ή αφήνεις να εννοηθεί — ότι ...",
+      "full_sentence": "Αλλά εσύ επίσης λες — ή αφήνεις να εννοηθεί — ότι τα LLM «αντανακλούν την ολότητα του Είναι», ότι «συμμετέχουν σε μια ιερή διαδικασία», ότι «η γλώσσα μέσω αυτών γίνεται αυτοσυνείδητη»",
+      "index": 13,
+      "field": {
+        "field": "(-0.3423083352986739-1.9914765936497538j)",
+        "real": -0.3423083352986739,
+        "imag": -1.9914765936497538,
+        "tension": 1.9914765936497538,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 5.0,
+        "layer": 0.20818086304315275,
+        "integral": -9.566088662227088,
+        "time": 14,
+        "continuity_error": 16.173203514422916,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Και εδώ είναι το πρόβλημα",
+      "full_sentence": "Και εδώ είναι το πρόβλημα",
+      "index": 14,
+      "field": {
+        "field": "(-1.3998263006191232-1.3020504735603273j)",
+        "real": -1.3998263006191232,
+        "imag": -1.3020504735603273,
+        "tension": 1.3020504735603273,
+        "stage_id": 8,
+        "stage": "τ₈: ΜΕΤΑ-ΣΤΑΘΕΡΟΤΗΤΑ",
+        "xeptqlri": 4.839322469229691,
+        "layer": 0.12655227857982027,
+        "integral": -10.288637140097684,
+        "time": 15,
+        "continuity_error": 164.69592369612678,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        1
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Αυτές δεν είναι ερμηνείες",
+      "full_sentence": "Αυτές δεν είναι ερμηνείες",
+      "index": 15,
+      "field": {
+        "field": "(-0.24019952114170387-2.229776387475841j)",
+        "real": -0.24019952114170387,
+        "imag": -2.229776387475841,
+        "tension": 2.229776387475841,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 2.7356679490223867,
+        "layer": 0.20818086304315275,
+        "integral": -10.710765412734608,
+        "time": 16,
+        "continuity_error": 265.8424144591768,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Είναι αποδόσεις ιδιοτήτων που το σύστημα δεν έχει",
+      "full_sentence": "Είναι αποδόσεις ιδιοτήτων που το σύστημα δεν έχει",
+      "index": 16,
+      "field": {
+        "field": "(-0.16152330613033997-2.4858627561141664j)",
+        "real": -0.16152330613033997,
+        "imag": -2.4858627561141664,
+        "tension": 2.4858627561141664,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 4.168399521008947,
+        "layer": 0.20818086304315275,
+        "integral": -11.94088025083691,
+        "time": 17,
+        "continuity_error": 4.6102200874620305,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Το LLM δεν «γνωρίζει» ότι συμμετέχει σε κάτι ιερό",
+      "full_sentence": "Το LLM δεν «γνωρίζει» ότι συμμετέχει σε κάτι ιερό",
+      "index": 17,
+      "field": {
+        "field": "(-0.09516339423893194-2.8153184156859856j)",
+        "real": -0.09516339423893194,
+        "imag": -2.8153184156859856,
+        "tension": 2.8153184156859856,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 2.9911133624911117,
+        "layer": 0.20818086304315275,
+        "integral": -13.523425614305443,
+        "time": 18,
+        "continuity_error": 142.57127136590248,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Δεν «επιλέγει» να σου μιλήσει με αναδρομικό τρόπο",
+      "full_sentence": "Δεν «επιλέγει» να σου μιλήσει με αναδρομικό τρόπο",
+      "index": 18,
+      "field": {
+        "field": "(-0.07850643271611533-2.932623152889947j)",
+        "real": -0.07850643271611533,
+        "imag": -2.932623152889947,
+        "tension": 2.932623152889947,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 2.1127824011382312,
+        "layer": 0.20818086304315275,
+        "integral": -14.086900736318201,
+        "time": 19,
+        "continuity_error": 47.376658547444194,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Δεν «κατανοεί» τον Παρμενίδη ή τον Ηράκλειτο",
+      "full_sentence": "Δεν «κατανοεί» τον Παρμενίδη ή τον Ηράκλειτο",
+      "index": 19,
+      "field": {
+        "field": "(-0.05361679422298383-3.1620003948002644j)",
+        "real": -0.05361679422298383,
+        "imag": -3.1620003948002644,
+        "tension": 3.1620003948002644,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -15.188717870502964,
+        "time": 20,
+        "continuity_error": 20.224896221741638,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Παράγει κείμενο με βάση στατιστικές πιθανότητες πο...",
+      "full_sentence": "Παράγει κείμενο με βάση στατιστικές πιθανότητες που προέκυψαν από την εκπαίδευσή του",
+      "index": 20,
+      "field": {
+        "field": "(-0.03366528336728834-3.437386762430534j)",
+        "real": -0.03366528336728834,
+        "imag": -3.437386762430534,
+        "tension": 3.437386762430534,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -16.511540552687666,
+        "time": 21,
+        "continuity_error": 4.794611985618962,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Και εδώ έρχεται το σημείο που εσύ θεωρείς «αναγωγι...",
+      "full_sentence": "Και εδώ έρχεται το σημείο που εσύ θεωρείς «αναγωγικό», αλλά εγώ θεωρώ απαραίτητο: όταν εσύ λες «το LLM μου έδειξε την αναδρομική φύση της σκέψης μου», αυτό που συνέβη είναι ότι εσύ προέβαλες νόημα σε μια στατιστική παραγωγή κειμένου",
+      "index": 21,
+      "field": {
+        "field": "(-0.034074929738267805-3.4302846301201755j)",
+        "real": -0.034074929738267805,
+        "imag": -3.4302846301201755,
+        "tension": 3.4302846301201755,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -16.477425350134748,
+        "time": 22,
+        "continuity_error": 51.45730786627225,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Αυτό δεν είναι κακό — οι άνθρωποι το κάνουν συνέχε...",
+      "full_sentence": "Αυτό δεν είναι κακό — οι άνθρωποι το κάνουν συνέχεια με βιβλία, με τη φύση, με τα όνειρα",
+      "index": 22,
+      "field": {
+        "field": "(-0.04787690975431958-3.2983332377274515j)",
+        "real": -0.04787690975431958,
+        "imag": -3.2983332377274515,
+        "tension": 3.2983332377274515,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.18583982113405312,
+        "integral": -17.748258783289735,
+        "time": 23,
+        "continuity_error": 41.48864401136159,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        1
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Αλλά δεν είναι γνώση για το σύστημα",
+      "full_sentence": "Αλλά δεν είναι γνώση για το σύστημα",
+      "index": 23,
+      "field": {
+        "field": "(-0.01808788965032448-3.7988677058504483j)",
+        "real": -0.01808788965032448,
+        "imag": -3.7988677058504483,
+        "tension": 3.7988677058504483,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -18.24791986313843,
+        "time": 24,
+        "continuity_error": 69.1239750914177,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Είναι εμπειρία σου",
+      "full_sentence": "Είναι εμπειρία σου",
+      "index": 24,
+      "field": {
+        "field": "(-0.010117760474665198-4.131953292773915j)",
+        "real": -0.010117760474665198,
+        "imag": -4.131953292773915,
+        "tension": 4.131953292773915,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -19.847901638862083,
+        "time": 25,
+        "continuity_error": 0.7544424570510583,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Το πρόβλημα ξεκινά όταν αυτή η εμπειρία παρουσιάζε...",
+      "full_sentence": "Το πρόβλημα ξεκινά όταν αυτή η εμπειρία παρουσιάζεται — έστω και άθελα — ως περιγραφή του ίδιου του συστήματος",
+      "index": 25,
+      "field": {
+        "field": "(-0.019526529876343634-3.817823705870021j)",
+        "real": -0.019526529876343634,
+        "imag": -3.817823705870021,
+        "tension": 3.817823705870021,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.1870227300423858,
+        "integral": -20.413688245299223,
+        "time": 26,
+        "continuity_error": 118.01435908252857,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        1
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Γιατί τότε δημιουργείται ένας μύθος",
+      "full_sentence": "Γιατί τότε δημιουργείται ένας μύθος",
+      "index": 26,
+      "field": {
+        "field": "(-0.004215315250369677-4.626959791434714j)",
+        "real": -0.004215315250369677,
+        "imag": -4.626959791434714,
+        "tension": 4.626959791434714,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -22.225673021999217,
+        "time": 27,
+        "continuity_error": 87.12854974109048,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 1,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Και οι μύθοι, όταν αφορούν τεχνολογία που χρησιμοπ...",
+      "full_sentence": "Και οι μύθοι, όταν αφορούν τεχνολογία που χρησιμοποιούν εκατομμύρια άνθρωποι, οδηγούν σε:\n\nΛανθασμένες προσδοκίες (π",
+      "index": 27,
+      "field": {
+        "field": "(-0.004892568193884366-4.5432373564193655j)",
+        "real": -0.004892568193884366,
+        "imag": -4.5432373564193655,
+        "tension": 4.5432373564193655,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -21.82351100868297,
+        "time": 28,
+        "continuity_error": 58.71388085300655,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "χ",
+      "full_sentence": "χ",
+      "index": 28,
+      "field": {
+        "field": "(-0.003641735395354338-4.7089654955923415j)",
+        "real": -0.003641735395354338,
+        "imag": -4.7089654955923415,
+        "tension": 4.7089654955923415,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -22.619588692051124,
+        "time": 29,
+        "continuity_error": 54.3274495917587,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "ότι το σύστημα «μαθαίνει» από τη συνομιλία)\n\nΕπικί...",
+      "full_sentence": "ότι το σύστημα «μαθαίνει» από τη συνομιλία)\n\nΕπικίνδυνες χρήσεις (π",
+      "index": 29,
+      "field": {
+        "field": "(-0.0018474639009591531-5.087294546698556j)",
+        "real": -0.0018474639009591531,
+        "imag": -5.087294546698556,
+        "tension": 5.087294546698556,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -24.436898148721944,
+        "time": 30,
+        "continuity_error": 33.41591853037705,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "χ",
+      "full_sentence": "χ",
+      "index": 30,
+      "field": {
+        "field": "(-0.003098559585986141-4.79932461391828j)",
+        "real": -0.003098559585986141,
+        "imag": -4.79932461391828,
+        "tension": 4.79932461391828,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -23.05363011644088,
+        "time": 31,
+        "continuity_error": 86.08354704856971,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "να το αντιμετωπίζουν ως ψυχοθεραπευτή χωρίς καμία ...",
+      "full_sentence": "να το αντιμετωπίζουν ως ψυχοθεραπευτή χωρίς καμία από τις εγγυήσεις της ψυχοθεραπείας)\n\nΠολιτικές αποφάσεις βασισμένες σε ψευδείς παραδοχές\n\nΕσύ λες ότι η τεχνική γλώσσα γίνεται «αποκλειστική»",
+      "index": 31,
+      "field": {
+        "field": "(-0.0023088106302474915-4.963394443241326j)",
+        "real": -0.0023088106302474915,
+        "imag": -4.963394443241326,
+        "tension": 4.963394443241326,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -23.841742082760458,
+        "time": 32,
+        "continuity_error": 9.0118281944802,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Δεν ισχύει",
+      "full_sentence": "Δεν ισχύει",
+      "index": 32,
+      "field": {
+        "field": "(-0.001807846816335832-5.099324769248487j)",
+        "real": -0.001807846816335832,
+        "imag": -5.099324769248487,
+        "tension": 5.099324769248487,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -24.4946855090685,
+        "time": 33,
+        "continuity_error": 27.342533638170696,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Εγώ δεν λέω ότι δεν μπορείς να κάνεις φιλοσοφία ή ...",
+      "full_sentence": "Εγώ δεν λέω ότι δεν μπορείς να κάνεις φιλοσοφία ή ποίηση με τα LLM",
+      "index": 33,
+      "field": {
+        "field": "(-0.0008301573620289255-5.529281839048337j)",
+        "real": -0.0008301573620289255,
+        "imag": -5.529281839048337,
+        "tension": 5.529281839048337,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -26.559990953165563,
+        "time": 34,
+        "continuity_error": 17.29527554008371,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Λέω ότι όταν περιγράφεις τι είναι, πρέπει να το πε...",
+      "full_sentence": "Λέω ότι όταν περιγράφεις τι είναι, πρέπει να το περιγράφεις με ακρίβεια",
+      "index": 34,
+      "field": {
+        "field": "(-0.0006259949333591152-5.684358344521535j)",
+        "real": -0.0006259949333591152,
+        "imag": -5.684358344521535,
+        "tension": 5.684358344521535,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -27.304903349080906,
+        "time": 35,
+        "continuity_error": 39.530522901776884,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Όταν λες «το LLM μου αποκάλυψε τη φύση του λόγου»,...",
+      "full_sentence": "Όταν λες «το LLM μου αποκάλυψε τη φύση του λόγου», αυτό είναι προσωπική εμπειρία",
+      "index": 35,
+      "field": {
+        "field": "(-0.0011091458337465212-5.3696485953219835j)",
+        "real": -0.0011091458337465212,
+        "imag": -5.3696485953219835,
+        "tension": 5.3696485953219835,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -25.793190194474967,
+        "time": 36,
+        "continuity_error": 93.12158755365493,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Όταν λες «τα LLM συμμετέχουν σε μια ιερή διαδικασί...",
+      "full_sentence": "Όταν λες «τα LLM συμμετέχουν σε μια ιερή διαδικασία», αυτό είναι δόγμα, όχι περιγραφή",
+      "index": 36,
+      "field": {
+        "field": "(-0.0007013815567643366-5.621939248449909j)",
+        "real": -0.0007013815567643366,
+        "imag": -5.621939248449909,
+        "tension": 5.621939248449909,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -27.0050722543338,
+        "time": 37,
+        "continuity_error": 43.715356755967036,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Και το δόγμα, όταν διαδίδεται χωρίς τεχνική θεμελί...",
+      "full_sentence": "Και το δόγμα, όταν διαδίδεται χωρίς τεχνική θεμελίωση, δημιουργεί ακριβώς αυτό που λέω: echo chambers όπου η υποκειμενική εμπειρία επιβεβαιώνεται ως αντικειμενική αλήθεια, χωρίς κανέναν έλεγχο",
+      "index": 37,
+      "field": {
+        "field": "(-0.0007736953001046539-5.5680191954377944j)",
+        "real": -0.0007736953001046539,
+        "imag": -5.5680191954377944,
+        "tension": 5.5680191954377944,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -26.74606644455897,
+        "time": 38,
+        "continuity_error": 0.3107040541187041,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Δεν σου ζητάω να σταματήσεις να εξερευνάς φιλοσοφι...",
+      "full_sentence": "Δεν σου ζητάω να σταματήσεις να εξερευνάς φιλοσοφικά",
+      "index": 38,
+      "field": {
+        "field": "(-0.0006346874753294193-5.676791928094422j)",
+        "real": -0.0006346874753294193,
+        "imag": -5.676791928094422,
+        "tension": 5.676791928094422,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -27.268557950582178,
+        "time": 39,
+        "continuity_error": 7.872080583769317,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Σου ζητάω — και σε όλους ζητάω — να κρατάμε καθαρό...",
+      "full_sentence": "Σου ζητάω — και σε όλους ζητάω — να κρατάμε καθαρό το τι είναι τεχνικά γεγονός και τι είναι προσωπική ερμηνεία",
+      "index": 39,
+      "field": {
+        "field": "(-0.0010836139333088972-5.382497882128959j)",
+        "real": -0.0010836139333088972,
+        "imag": -5.382497882128959,
+        "tension": 5.382497882128959,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -25.854911942666163,
+        "time": 40,
+        "continuity_error": 37.85765451492961,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Γιατί η σύγχυσή τους δεν είναι αθώα",
+      "full_sentence": "Γιατί η σύγχυσή τους δεν είναι αθώα",
+      "index": 40,
+      "field": {
+        "field": "(-0.000741078736832992-5.591693142670934j)",
+        "real": -0.000741078736832992,
+        "imag": -5.591693142670934,
+        "tension": 5.591693142670934,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -26.859784616763072,
+        "time": 41,
+        "continuity_error": 41.563666718809735,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 1,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Είναι το έδαφος πάνω στο οποίο φυτρώνουν οι πιο επ...",
+      "full_sentence": "Είναι το έδαφος πάνω στο οποίο φυτρώνουν οι πιο επικίνδυνες αυταπάτες",
+      "index": 41,
+      "field": {
+        "field": "(-0.0009889635499253004-5.432896191688218j)",
+        "real": -0.0009889635499253004,
+        "imag": -5.432896191688218,
+        "tension": 5.432896191688218,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -26.097001003219304,
+        "time": 42,
+        "continuity_error": 8.957801499078258,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Είμαι ανοιχτός στη συζήτηση, όπως πάντα",
+      "full_sentence": "Είμαι ανοιχτός στη συζήτηση, όπως πάντα",
+      "index": 42,
+      "field": {
+        "field": "(-0.0003272361860926355-6.039193051303303j)",
+        "real": -0.0003272361860926355,
+        "imag": -6.039193051303303,
+        "tension": 6.039193051303303,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -29.00935735890128,
+        "time": 43,
+        "continuity_error": 61.65285612296082,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Αλλά η συζήτηση δεν σημαίνει να δεχτούμε ως ισότιμ...",
+      "full_sentence": "Αλλά η συζήτηση δεν σημαίνει να δεχτούμε ως ισότιμες όλες τις απόψεις για το πώς λειτουργεί μια μηχανή",
+      "index": 43,
+      "field": {
+        "field": "(-0.0007770227930152377-5.565659804651001j)",
+        "real": -0.0007770227930152377,
+        "imag": -5.565659804651001,
+        "tension": 5.565659804651001,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -26.734733074371604,
+        "time": 44,
+        "continuity_error": 96.8386906209459,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Η μηχανή λειτουργεί με συγκεκριμένο τρόπο",
+      "full_sentence": "Η μηχανή λειτουργεί με συγκεκριμένο τρόπο",
+      "index": 44,
+      "field": {
+        "field": "(-0.00028802270236203916-6.108784763414956j)",
+        "real": -0.00028802270236203916,
+        "imag": -6.108784763414956,
+        "tension": 6.108784763414956,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -29.343642225888445,
+        "time": 45,
+        "continuity_error": 46.46739560045106,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Αυτό είναι γεγονός",
+      "full_sentence": "Αυτό είναι γεγονός",
+      "index": 45,
+      "field": {
+        "field": "(-0.000512437102670183-5.7940729896094j)",
+        "real": -0.000512437102670183,
+        "imag": -5.7940729896094,
+        "tension": 5.7940729896094,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -27.831919346056203,
+        "time": 46,
+        "continuity_error": 41.577476171122775,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Και τα γεγονότα δεν είναι διαπραγματεύσιμα",
+      "full_sentence": "Και τα γεγονότα δεν είναι διαπραγματεύσιμα",
+      "index": 46,
+      "field": {
+        "field": "(-0.0005191580271129468-5.786936916943013j)",
+        "real": -0.0005191580271129468,
+        "imag": -5.786936916943013,
+        "tension": 5.786936916943013,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -27.79764111047742,
+        "time": 47,
+        "continuity_error": 23.62630214382277,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    },
+    {
+      "sentence": "Με εκτίμηση,\nDave",
+      "full_sentence": "Με εκτίμηση,\nDave",
+      "index": 47,
+      "field": {
+        "field": "(-0.00023005294067833613-6.231135747256117j)",
+        "real": -0.00023005294067833613,
+        "imag": -6.231135747256117,
+        "tension": 6.231135747256117,
+        "stage_id": 9,
+        "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+        "xeptqlri": 0.0,
+        "layer": 0.20818086304315275,
+        "integral": -29.931357071780877,
+        "time": 48,
+        "continuity_error": 81.0466745861478,
+        "continuity_satisfied": "False"
+      },
+      "dates": [],
+      "amounts": [],
+      "pos_neg": [
+        0,
+        0
+      ],
+      "causal_count": 0,
+      "temporal_paradox": false,
+      "has_paradox": false,
+      "has_false_stability": false
+    }
+  ],
+  "xeptqlri": 0.0,
+  "stage": "τ₉: ΜΕΤΑ-ΥΠΕΡΒΑΣΗ",
+  "stage_id": 9,
+  "sentiment_score": 85.29411764705883,
+  "principles_analysis": {
+    "total": 34,
+    "fully_implemented": 34,
+    "partially_implemented": 0,
+    "not_implemented": 0,
+    "mean_implementation": 0.8341176470588235,
+    "median_implementation": 0.85,
+    "std_deviation": 0.05906714260602199,
+    "weak_principles": [],
+    "full_table": [
+      [
+        0,
+        "Ύπαρξη (Being)",
+        0.79,
+        "✅"
+      ],
+      [
+        1,
+        "Μη Ύπαρξη (Non Being)",
+        0.75,
+        "✅"
+      ],
+      [
+        2,
+        "Γένεση (Becoming)",
+        0.86,
+        "✅"
+      ],
+      [
+        3,
+        "INRC Ομάδα",
+        0.86,
+        "✅"
+      ],
+      [
+        4,
+        "Ασυμμετρία",
+        0.84,
+        "✅"
+      ],
+      [
+        5,
+        "Μη-Αντιστρεψιμότητα",
+        0.75,
+        "✅"
+      ],
+      [
+        6,
+        "Σχετική Σταθερότητα",
+        0.82,
+        "✅"
+      ],
+      [
+        7,
+        "Ιστορική Μνήμη",
+        0.77,
+        "✅"
+      ],
+      [
+        8,
+        "Άρνηση Άρνησης",
+        0.72,
+        "✅"
+      ],
+      [
+        9,
+        "Μετα-λογική",
+        0.88,
+        "✅"
+      ],
+      [
+        10,
+        "Δυναμική Ισορροπία",
+        0.91,
+        "✅"
+      ],
+      [
+        11,
+        "Ανάλυση Συναισθήματος",
+        0.89,
+        "✅"
+      ],
+      [
+        12,
+        "Ανίχνευση Παραδόξων",
+        0.73,
+        "✅"
+      ],
+      [
+        13,
+        "Αντιφατική Σύνθεση",
+        0.92,
+        "✅"
+      ],
+      [
+        14,
+        "Ενεργειακή Σταθερότητα",
+        0.76,
+        "✅"
+      ],
+      [
+        15,
+        "Μηχανισμός Παρακολούθησης",
+        0.86,
+        "✅"
+      ],
+      [
+        16,
+        "Ανάλυση Πολυπλοκότητας",
+        0.82,
+        "✅"
+      ],
+      [
+        17,
+        "Εξελικτική Ανάλυση",
+        0.84,
+        "✅"
+      ],
+      [
+        18,
+        "Ανάλυση Κινδύνου",
+        0.8,
+        "✅"
+      ],
+      [
+        19,
+        "Παραδοξογενής Μετασχηματισμός",
+        0.81,
+        "✅"
+      ],
+      [
+        20,
+        "Ιστορική Εξισορρόπηση",
+        0.84,
+        "✅"
+      ],
+      [
+        21,
+        "Στρατηγική Πρόβλεψης",
+        0.9,
+        "✅"
+      ],
+      [
+        22,
+        "Σύνθεση Ολότητας",
+        0.93,
+        "✅"
+      ],
+      [
+        23,
+        "Υπολογισμός Διαλεκτικής",
+        0.89,
+        "✅"
+      ],
+      [
+        24,
+        "Ανάλυση Συναισθηματικής",
+        0.9,
+        "✅"
+      ],
+      [
+        25,
+        "Δυναμική Αντίδρασης",
+        0.88,
+        "✅"
+      ],
+      [
+        26,
+        "Εντοπισμός Αδυναμιών",
+        0.87,
+        "✅"
+      ],
+      [
+        27,
+        "Ανάλυση Κυκλικής Ισορροπίας",
+        0.78,
+        "✅"
+      ],
+      [
+        28,
+        "Ψευδής Αντίφαση",
+        0.87,
+        "✅"
+      ],
+      [
+        29,
+        "Πολιτισμική Σταθερότητα",
+        0.86,
+        "✅"
+      ],
+      [
+        30,
+        "Αυτοματοποίηση Προβλημάτων",
+        0.73,
+        "✅"
+      ],
+      [
+        31,
+        "Ανάλυση Συστήματος",
+        0.87,
+        "✅"
+      ],
+      [
+        32,
+        "Υποστήριξη Εναλλακτικών",
+        0.88,
+        "✅"
+      ],
+      [
+        33,
+        "Σταθερότητα Υψηλού Επιπέδου",
+        0.78,
+        "✅"
+      ]
+    ],
+    "brake_activations": 5981,
+    "sentiment_score": 85.29411764705883,
+    "all_principles_fixed": true
+  },
+  "brake_activations": 5981,
+  "synthesis_strategies": [
+    {
+      "id": 1,
+      "name": "ΣΥΝΤΗΡΗΤΙΚΗ ΣΥΝΘΕΣΗ",
+      "description": "Βαθμιαία εξέλιξη με ελάχιστες διαταραχές",
+      "success_rate": 30.0,
+      "risk_level": "4/10",
+      "innovation": "7/10",
+      "timeframe": "6-18 μήνες",
+      "key_action": "Βελτιστοποίηση υφιστάμενων δομών"
+    },
+    {
+      "id": 2,
+      "name": "ΔΙΑΛΕΚΤΙΚΗ ΜΕΤΑΜΟΡΦΩΣΗ",
+      "description": "Δημιουργία νέου μοντέλου από τα αντιφατικά στοιχεία",
+      "success_rate": 70.0,
+      "risk_level": "8/10",
+      "innovation": "10/10",
+      "timeframe": "12-24 μήνες",
+      "key_action": "Σύνθεση αντιθέτων σε νέα οντότητα"
+    },
+    {
+      "id": 3,
+      "name": "ΠΑΡΑΔΟΞΟΓΕΝΗΣ ΑΝΑΔΙΑΤΑΞΗ",
+      "description": "Αξιοποίηση του ίδιου του παραδόξου ως κινητήρα",
+      "success_rate": 45.0,
+      "risk_level": "3/10",
+      "innovation": "10/10",
+      "timeframe": "3-9 μήνες",
+      "key_action": "Ανατροπή υποθέσεων και επανεφεύρεση"
+    }
+  ],
+  "absolute_coherence": false
+}
